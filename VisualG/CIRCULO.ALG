@@ -2,7 +2,6 @@ Algoritmo "circulo"
 
 
 Var
-
     Area, r : real
 
 Inicio
